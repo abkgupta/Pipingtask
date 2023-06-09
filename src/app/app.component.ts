@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'piping';
+  words = ['hello', 'bird', 'table', 'football', 'pipe', 'code'];
+  value_expression = "sdfsfswfv";
+   curren = 4;
 }
